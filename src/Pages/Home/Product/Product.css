@@ -1,0 +1,26 @@
+.product-container {
+  margin: 8px;
+  text-align: center;
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  transition: 1s;
+}
+.product-button {
+  font-size: 15px;
+  font-weight: 600;
+  padding: 8px 12px;
+  margin-bottom: 15px;
+  color: black;
+  border: 1px solid lightgray;
+  align-items: center;
+  background: white;
+  border-radius: 6px;
+}
+.product-container:hover {
+  transform: scale(1.07);
+}
+.product-button:hover {
+  color: white;
+  cursor: pointer;
+  background: black;
+}

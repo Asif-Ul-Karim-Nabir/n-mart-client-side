@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/DpY1fYx/mobile-1.webp",
+      "name": "Modern Smart Phone",
+      "category": "Accessories",
+      "price": 90,
+      "descriptions": "A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides for management and telemetry (such as long-term biomonitoring)."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/2jLkffc/bluetooth-headphone-2.webp",
+      "name": "Bluetooth Headphone",
+      "category": "Accessories",
+      "price": 38.5,
+      "descriptions": "A Bluetooth® device works by using radio waves instead of wires or cables to connect with your cell phone, smartphone or computer. A single Bluetooth headset can even connect to multiple devices at the same time. This enables you to talk on the phone or listen to music without the bother of wires or cords."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/R7CHKyP/music-box-3.webp",
+      "name": "Smart Music Box",
+      "category": "Accessories",
+      "price": 30,
+      "descriptions": "Through the amazing smart app control features on this device, you can easily upload music compositions to a cloud library. It is also possible to share your compositions with music box lovers all over the globe. You will also be able to store and be able to play your songs on our app at any time."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/F4fJKpz/smart-table-camera-4.webp",
+      "name": "Smart Table Camera",
+      "category": "Accessories",
+      "price": 82.5,
+      "descriptions": "The SMART Table Camera 650 allows teachers to capture lessons as they’re delivered and showcase hands-on instruction. No matter the grade level, students can easily  share their work. The rich, 4K Ultra HD fuels engagement and unites any classroom experience, even while video conferencing."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/JHvX7g8/smart-hand-watch-5.webp",
+      "name": "Smart Hand Watch",
+      "category": "Accessories",
+      "price": 40,
+      "descriptions": "Like other computers, a smartwatch may collect information from internal or external sensors and it may control, or retrieve data from, other instruments or computers. It may support wireless technologies such as Bluetooth, Wi-Fi, and GPS."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/bbRmDJW/power-bank-6.webp",
+      "name": "Power Bank 10000Mhp",
+      "category": "Accessories",
+      "price": 120.5,
+      "descriptions": "Power banks are used for providing portable power to charge battery powered items like mobile phones and other similar items that have a USB interface: they can charge via USB, etc or wirelessly."
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/QfSY5XC/ear-pod-7.webp",
+      "name": "AirPods",
+      "category": "Accessories",
+      "price": 55,
+      "descriptions": "AirPods will forever change the way you use headphones. ... Driven by the custom Apple W1 chip, AirPods use optical sensors and a motion accelerometer to detect when they are in your ears. Whether you are using both AirPods or just one, the W1 chip automatically routes the audio and engages the microphone."
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/gyQjRss/white-watch-8.webp",
+      "name": "Ladies Smart Watch",
+      "category": "Accessories",
+      "price": 60,
+      "descriptions": "A smartwatch is a wearable computing device that closely resembles a wristwatch or other time-keeping device. In addition to telling time, many smartwatches are Bluetooth-capable. The watch becomes, in effect, a wireless Bluetooth adaptor capable of extending the capabilities of the wearer is smartphone to the watch."
+    }
+  ]
